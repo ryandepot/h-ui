@@ -1,6 +1,6 @@
 <template>
   <a
-    href="https://github.com/jonssonyan/h-ui"
+    href="#"
     target="_blank"
     class="github-corner"
     aria-label="View source on Github"
