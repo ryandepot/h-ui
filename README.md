@@ -49,7 +49,7 @@ Memory: ≥ 256MB
 ### Quick Install (Recommended)
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/jonssonyan/h-ui/main/install.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/ryandepot/h-ui/main/install.sh)
 ```
 
 ### Docker
@@ -119,8 +119,8 @@ Executable files: https://github.com/jonssonyan/h-ui/releases
 
 ```bash
 mkdir -p /usr/local/h-ui/
-curl -fsSL https://github.com/jonssonyan/h-ui/releases/latest/download/h-ui-linux-amd64 -o /usr/local/h-ui/h-ui && chmod +x /usr/local/h-ui/h-ui
-curl -fsSL https://raw.githubusercontent.com/jonssonyan/h-ui/main/h-ui.service -o /etc/systemd/system/h-ui.service
+curl -fsSL https://github.com/ryandepot/h-ui/releases/latest/download/h-ui-linux-amd64 -o /usr/local/h-ui/h-ui && chmod +x /usr/local/h-ui/h-ui
+curl -fsSL https://raw.githubusercontent.com/ryandepot/h-ui/main/h-ui.service -o /etc/systemd/system/h-ui.service
 # Custom web port, default is 8081
 # sed -i "s|^ExecStart=.*|ExecStart=/usr/local/h-ui/h-ui -p 8081|" "/etc/systemd/system/h-ui.service"
 systemctl daemon-reload
