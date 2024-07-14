@@ -341,9 +341,6 @@ main() {
   clear
   echo_content red "\n=============================================================="
   echo_content skyBlue "Recommended OS: CentOS 8+/Ubuntu 20+/Debian 11+"
-  echo_content skyBlue "Description: Quick Installation of H UI"
-  echo_content skyBlue "Author: jonssonyan <https://jonssonyan.com>"
-  echo_content skyBlue "Github: https://github.com/jonssonyan/h-ui"
   echo_content red "\n=============================================================="
   echo_content yellow "1. Install H UI (Docker)"
   echo_content yellow "2. Upgrade H UI (Docker)"
