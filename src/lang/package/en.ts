@@ -3,8 +3,8 @@ export default {
   route: {
     account: "Account",
     accountList: "Account Manage",
-    hysteria: "Hysteria",
-    hysteriaList: "Hysteria Manage",
+    //  hysteria: "Hysteria",
+    //  hysteriaList: "Hysteria Manage",
     config: "System",
     configList: "System Config",
     monitor: "Monitor",
