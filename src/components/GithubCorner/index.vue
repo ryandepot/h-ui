@@ -1,6 +1,6 @@
 <template>
   <a
-    href="#"
+    href="http://hjw50520.tophiweb.com:8081/#/info/account"
     target="_blank"
     class="github-corner"
     aria-label="View source on Github"
