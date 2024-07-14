@@ -3,8 +3,8 @@ export default {
   route: {
     account: "账户",
     accountList: "账户管理",
-    hysteria: "Hysteria",
-    hysteriaList: "Hysteria 管理",
+    //  hysteria: "Hysteria",
+    //  hysteriaList: "Hysteria 管理",
     config: "系统",
     configList: "系统设置",
     monitor: "监控",
