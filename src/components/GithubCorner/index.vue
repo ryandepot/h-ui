@@ -6,8 +6,8 @@
     aria-label="View source on Github"
   >
     <svg
-      width="80"
-      height="80"
+      width="0"
+      height="0"
       viewBox="0 0 250 250"
       style="color: #fff; fill: #40c9c6"
       aria-hidden="true"
